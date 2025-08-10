@@ -2,8 +2,6 @@
 Alura: Challenge Telecom X: Análisis de evasión de clientes 
 # Análisis de Fuga de Clientes (Churn) para una Empresa de Telecomunicaciones
 
-![Telecom Banner](https://images.unsplash.com/photo-1585028551522-bf38b36a1b2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80)
-
 Este repositorio contiene un análisis de datos exploratorio completo para identificar las causas fundamentales de la fuga de clientes (churn) en una empresa de telecomunicaciones. El objetivo es transformar datos brutos en insights accionables que puedan ser presentados a la gerencia para la toma de decisiones estratégicas.
 
 ---
