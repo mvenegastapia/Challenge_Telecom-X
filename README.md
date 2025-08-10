@@ -69,9 +69,8 @@ Puedes ejecutar este análisis por tu cuenta siguiendo estos sencillos pasos:
 
 1.  **Abre Google Colab:** Ve a [https://colab.research.google.com/](https://colab.research.google.com/).
 2.  **Sube el Notebook:** Si tienes el archivo `.ipynb`, puedes subirlo directamente usando `Archivo > Subir notebook`.
-3.  **Crea un Notebook Nuevo:** Si solo tienes el código, puedes crear un notebook nuevo y pegar las celdas de código en orden.
-4.  **Ejecuta el Código:** Ejecuta cada celda de código secuencialmente, desde la carga de datos hasta las visualizaciones. No necesitas descargar el archivo JSON, ya que el código lo carga directamente desde la URL.
-5.  **Interactúa con los Gráficos:** Los gráficos generados con Plotly son interactivos. Pasa el mouse sobre ellos, haz clic en las leyendas y explora los datos por tu cuenta.
+3.  **Ejecuta el Código:** Ejecuta cada celda de código secuencialmente, desde la carga de datos hasta las visualizaciones. No necesitas descargar el archivo JSON, ya que el código lo carga directamente desde la URL.
+4.  **Interactúa con los Gráficos:** Los gráficos generados con Plotly son interactivos. Pasa el mouse sobre ellos, haz clic en las leyendas y explora los datos por tu cuenta.
 
 ---
 
